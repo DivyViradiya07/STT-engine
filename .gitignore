@@ -1,3 +1,5 @@
+Model_Training/wav2vec2_finetuned/
 AudioFiles/
-Processed_Spectrograms/
-wav2vec2_finetuned/
+Pre_processing/Processed_Spectrograms/
+
+.env
