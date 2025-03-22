@@ -68,8 +68,8 @@ pip install openai streamlit
    - To Finetune Wav2vec2 model for Speech to Text transformation 
       refer to file named: Model_training
     
-   - Run the testing script to evaluate performance:
-     for testing / Demo run notebook: Demo.py
+   - Run the testing script to evaluate performance: Model_performance.ipynb
+   - for testing / Demo run notebook: Demo.py
 
 4. **Real-Time Speech-to-Text & Chatbot**
    - Start the Streamlit chatbot interface:
