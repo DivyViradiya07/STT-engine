@@ -37,6 +37,9 @@ pip install soundfile pydub
 pip install openai streamlit
 ```
 
+-Finetuned Model and Processed Spectrograms Available on:
+    GDRIVE: https://drive.google.com/drive/folders/1vTC1Vpsd3YAsCvNKu01mZzRZxjgshhMt?usp=sharing
+
 ### Installation
 
 1. **Clone the Repository**
