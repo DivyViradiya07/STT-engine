@@ -69,7 +69,7 @@ pip install openai streamlit
       refer to file named: Model_training
     
    - Run the testing script to evaluate performance: Model_performance.ipynb
-   - for testing / Demo run notebook: Demo.py
+   - for testing / Demo, run notebook: Demo.py
 
 4. **Real-Time Speech-to-Text & Chatbot**
    - Start the Streamlit chatbot interface:
